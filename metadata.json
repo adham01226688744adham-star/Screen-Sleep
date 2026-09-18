@@ -1,0 +1,6 @@
+{
+  "name": "Screen & Sleep",
+  "description": "Screen time and personalized bedtime sleep management with multi-level break intervals and circadian routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
